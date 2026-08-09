@@ -3643,350 +3643,349 @@ window.HBT_DATA = {
   ],
   "courses": [
     {
-      "name": "BALLWIN GOLF COURSE",
-      "tees": "RED/BLUE",
-      "rating": 71.1,
-      "nineRating": 35.55,
-      "slope": 123.0,
-      "record": 42,
-      "holders": [
-        "Frankenberg",
-        "Garesche"
-      ],
-      "personal": [
-        {
-          "id": "tf",
-          "score": 42
-        },
-        {
-          "id": "rg",
-          "score": 42
-        },
-        {
-          "id": "am",
-          "score": 43
-        },
-        {
-          "id": "jb",
-          "score": 48
-        },
-        {
-          "id": "cd",
-          "score": 49
-        },
-        {
-          "id": "ss",
-          "score": 50
-        }
-      ],
-      "imageClass": "ballwin-golf-course"
+        "name": "TAPAWINGO - PRAIRIE",
+        "tees": "BLUE",
+        "rating": 70.8,
+        "nineRating": 35.4,
+        "slope": 132.0,
+        "record": 37,
+        "holders": [
+            "Garesche"
+        ],
+        "personal": [
+            {
+                "id": "rg",
+                "score": 37
+            },
+            {
+                "id": "am",
+                "score": 43
+            },
+            {
+                "id": "tf",
+                "score": 43
+            },
+            {
+                "id": "ss",
+                "score": 47
+            },
+            {
+                "id": "cd",
+                "score": 49
+            },
+            {
+                "id": "jb",
+                "score": 52
+            }
+        ],
+        "imageClass": "tapawingo-prairie"
     },
     {
-      "name": "CREVE COEUR GOLF CLUB",
-      "tees": "BLUE",
-      "rating": 68.2,
-      "nineRating": 34.1,
-      "slope": 111.0,
-      "record": 40,
-      "holders": [
-        "Garesche"
-      ],
-      "personal": [
-        {
-          "id": "rg",
-          "score": 40
-        },
-        {
-          "id": "tf",
-          "score": 42
-        },
-        {
-          "id": "jb",
-          "score": 43
-        },
-        {
-          "id": "am",
-          "score": 43
-        },
-        {
-          "id": "cd",
-          "score": 48
-        },
-        {
-          "id": "ss",
-          "score": 48
-        }
-      ],
-      "imageClass": "creve-coeur-golf-club"
+        "name": "TAPAWINGO - MERAMEC",
+        "tees": "BLUE",
+        "rating": 70.8,
+        "nineRating": 35.4,
+        "slope": 132.0,
+        "record": 40,
+        "holders": [
+            "Garesche",
+            "Mayer"
+        ],
+        "personal": [
+            {
+                "id": "am",
+                "score": 40
+            },
+            {
+                "id": "rg",
+                "score": 40
+            },
+            {
+                "id": "tf",
+                "score": 41
+            },
+            {
+                "id": "cd",
+                "score": 42
+            },
+            {
+                "id": "ss",
+                "score": 48
+            },
+            {
+                "id": "jb",
+                "score": 49
+            }
+        ],
+        "imageClass": "tapawingo---meramec"
     },
     {
-      "name": "FOREST PARK - DOGWOOD",
-      "tees": "YELLOW",
-      "rating": 65.6,
-      "nineRating": 32.8,
-      "slope": 108.0,
-      "record": 36,
-      "holders": [
-        "Mayer"
-      ],
-      "personal": [
-        {
-          "id": "am",
-          "score": 36
-        },
-        {
-          "id": "cd",
-          "score": 39
-        },
-        {
-          "id": "rg",
-          "score": 39
-        },
-        {
-          "id": "tf",
-          "score": 43
-        },
-        {
-          "id": "ss",
-          "score": 45
-        },
-        {
-          "id": "jb",
-          "score": 48
-        }
-      ],
-      "imageClass": "forest-park---dogwood"
+        "name": "TAPAWINGO - WOODLANDS",
+        "tees": "BLUE",
+        "rating": 70.8,
+        "nineRating": 35.4,
+        "slope": 132.0,
+        "record": 41,
+        "holders": [
+            "Davis"
+        ],
+        "personal": [
+            {
+                "id": "cd",
+                "score": 41
+            },
+            {
+                "id": "am",
+                "score": 42
+            },
+            {
+                "id": "rg",
+                "score": 42
+            },
+            {
+                "id": "tf",
+                "score": 44
+            },
+            {
+                "id": "jb",
+                "score": 50
+            },
+            {
+                "id": "ss",
+                "score": 50
+            }
+        ],
+        "imageClass": "tapawingo---woodlands"
     },
     {
-      "name": "FOREST PARK - HAWTHORNE",
-      "tees": "YELLOW",
-      "rating": 65.4,
-      "nineRating": 32.7,
-      "slope": 107.0,
-      "record": 36,
-      "holders": [
-        "Garesche"
-      ],
-      "personal": [
-        {
-          "id": "rg",
-          "score": 36
-        },
-        {
-          "id": "am",
-          "score": 39
-        },
-        {
-          "id": "ss",
-          "score": 40
-        },
-        {
-          "id": "cd",
-          "score": 41
-        },
-        {
-          "id": "tf",
-          "score": 41
-        },
-        {
-          "id": "jb",
-          "score": 44
-        }
-      ],
-      "imageClass": "forest-park---hawthorne"
+        "name": "FOREST PARK - DOGWOOD",
+        "tees": "YELLOW",
+        "rating": 65.6,
+        "nineRating": 32.8,
+        "slope": 108.0,
+        "record": 36,
+        "holders": [
+            "Mayer"
+        ],
+        "personal": [
+            {
+                "id": "am",
+                "score": 36
+            },
+            {
+                "id": "cd",
+                "score": 39
+            },
+            {
+                "id": "rg",
+                "score": 39
+            },
+            {
+                "id": "tf",
+                "score": 43
+            },
+            {
+                "id": "ss",
+                "score": 45
+            },
+            {
+                "id": "jb",
+                "score": 48
+            }
+        ],
+        "imageClass": "forest-park---dogwood"
     },
     {
-      "name": "FOREST PARK - REDBUD",
-      "tees": "YELLOW",
-      "rating": 66.0,
-      "nineRating": 33,
-      "slope": 109.0,
-      "record": 37,
-      "holders": [
-        "Mayer"
-      ],
-      "personal": [
-        {
-          "id": "am",
-          "score": 37
-        },
-        {
-          "id": "rg",
-          "score": 38
-        },
-        {
-          "id": "ss",
-          "score": 41
-        },
-        {
-          "id": "cd",
-          "score": 42
-        },
-        {
-          "id": "jb",
-          "score": 45
-        },
-        {
-          "id": "tf",
-          "score": 45
-        }
-      ],
-      "imageClass": "forest-park---redbud"
+        "name": "FOREST PARK - HAWTHORNE",
+        "tees": "YELLOW",
+        "rating": 65.4,
+        "nineRating": 32.7,
+        "slope": 107.0,
+        "record": 36,
+        "holders": [
+            "Garesche"
+        ],
+        "personal": [
+            {
+                "id": "rg",
+                "score": 36
+            },
+            {
+                "id": "am",
+                "score": 39
+            },
+            {
+                "id": "ss",
+                "score": 40
+            },
+            {
+                "id": "cd",
+                "score": 41
+            },
+            {
+                "id": "tf",
+                "score": 41
+            },
+            {
+                "id": "jb",
+                "score": 44
+            }
+        ],
+        "imageClass": "forest-park---hawthorne"
     },
     {
-      "name": "FOREST PARK - HIGHLANDS",
-      "tees": "YELLOW",
-      "rating": 63.6,
-      "nineRating": 31.8,
-      "slope": 109.0,
-      "record": 37,
-      "holders": [
-        "Mayer"
-      ],
-      "personal": [
-        {
-          "id": "am",
-          "score": 37
-        },
-        {
-          "id": "tf",
-          "score": 38
-        },
-        {
-          "id": "rg",
-          "score": 39
-        },
-        {
-          "id": "cd",
-          "score": 41
-        },
-        {
-          "id": "ss",
-          "score": 41
-        },
-        {
-          "id": "jb",
-          "score": 46
-        }
-      ],
-      "imageClass": "forest-park---highlands"
+        "name": "FOREST PARK - REDBUD",
+        "tees": "YELLOW",
+        "rating": 66.0,
+        "nineRating": 33.0,
+        "slope": 109.0,
+        "record": 37,
+        "holders": [
+            "Mayer"
+        ],
+        "personal": [
+            {
+                "id": "am",
+                "score": 37
+            },
+            {
+                "id": "rg",
+                "score": 38
+            },
+            {
+                "id": "ss",
+                "score": 41
+            },
+            {
+                "id": "cd",
+                "score": 42
+            },
+            {
+                "id": "jb",
+                "score": 45
+            },
+            {
+                "id": "tf",
+                "score": 45
+            }
+        ],
+        "imageClass": "forest-park---redbud"
     },
     {
-      "name": "RUTH PARK",
-      "tees": "BLUE",
-      "rating": 68.0,
-      "nineRating": 34,
-      "slope": 113.0,
-      "record": 37,
-      "holders": [
-        "Mayer"
-      ],
-      "personal": [
-        {
-          "id": "am",
-          "score": 37
-        },
-        {
-          "id": "rg",
-          "score": 41
-        },
-        {
-          "id": "jb",
-          "score": 42
-        },
-        {
-          "id": "cd",
-          "score": 42
-        },
-        {
-          "id": "ss",
-          "score": 43
-        },
-        {
-          "id": "tf",
-          "score": 44
-        }
-      ],
-      "imageClass": "ruth-park"
+        "name": "FOREST PARK - HIGHLANDS",
+        "tees": "YELLOW",
+        "rating": 63.6,
+        "nineRating": 31.8,
+        "slope": 109.0,
+        "record": 37,
+        "holders": [
+            "Mayer"
+        ],
+        "personal": [
+            {
+                "id": "am",
+                "score": 37
+            },
+            {
+                "id": "tf",
+                "score": 38
+            },
+            {
+                "id": "rg",
+                "score": 39
+            },
+            {
+                "id": "cd",
+                "score": 41
+            },
+            {
+                "id": "ss",
+                "score": 41
+            },
+            {
+                "id": "jb",
+                "score": 46
+            }
+        ],
+        "imageClass": "forest-park---highlands"
     },
     {
-      "name": "TAPAWINGO - MERAMEC",
-      "tees": "BLUE",
-      "rating": 70.8,
-      "nineRating": 35.4,
-      "slope": 132.0,
-      "record": 40,
-      "holders": [
-        "Garesche",
-        "Mayer"
-      ],
-      "personal": [
-        {
-          "id": "rg",
-          "score": 40
-        },
-        {
-          "id": "am",
-          "score": 40
-        },
-        {
-          "id": "tf",
-          "score": 41
-        },
-        {
-          "id": "cd",
-          "score": 42
-        },
-        {
-          "id": "ss",
-          "score": 48
-        },
-        {
-          "id": "jb",
-          "score": 49
-        }
-      ],
-      "imageClass": "tapawingo---meramec"
+        "name": "RUTH PARK",
+        "tees": "BLUE",
+        "rating": 65.6,
+        "nineRating": 32.8,
+        "slope": 112.0,
+        "record": 37,
+        "holders": [
+            "Mayer"
+        ],
+        "personal": [
+            {
+                "id": "am",
+                "score": 37
+            },
+            {
+                "id": "rg",
+                "score": 41
+            },
+            {
+                "id": "cd",
+                "score": 42
+            },
+            {
+                "id": "jb",
+                "score": 42
+            },
+            {
+                "id": "ss",
+                "score": 43
+            },
+            {
+                "id": "tf",
+                "score": 44
+            }
+        ],
+        "imageClass": "ruth-park"
     },
     {
-      "name": "TAPAWINGO - PRAIRIE",
-      "tees": "BLUE",
-      "rating": 70.9,
-      "nineRating": 35.45,
-      "slope": 132.0,
-      "record": 42,
-      "holders": [
-        "Garesche"
-      ],
-      "personal": [
-        {
-          "id": "rg",
-          "score": 42
-        },
-        {
-          "id": "tf",
-          "score": 43
-        },
-        {
-          "id": "am",
-          "score": 46
-        },
-        {
-          "id": "cd",
-          "score": 49
-        },
-        {
-          "id": "ss",
-          "score": 50
-        },
-        {
-          "id": "jb",
-          "score": 55
-        }
-      ],
-      "imageClass": "tapawingo-prairie"
+        "name": "CREVE COEUR GOLF CLUB",
+        "tees": "BLUE",
+        "rating": 68.2,
+        "nineRating": 34.1,
+        "slope": 111.0,
+        "record": 40,
+        "holders": [
+            "Garesche"
+        ],
+        "personal": [
+            {
+                "id": "rg",
+                "score": 40
+            },
+            {
+                "id": "tf",
+                "score": 42
+            },
+            {
+                "id": "am",
+                "score": 43
+            },
+            {
+                "id": "jb",
+                "score": 43
+            },
+            {
+                "id": "cd",
+                "score": 48
+            },
+            {
+                "id": "ss",
+                "score": 48
+            }
+        ],
+        "imageClass": "creve-coeur-golf-club"
     }
-  ],
+],
   "compare": [
     [
       "v",
