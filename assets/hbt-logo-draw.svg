@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <mask id="logoMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="700">
+      <rect width="1200" height="700" fill="black"/>
+      <image href="hbt-logo.png" x="0" y="0" width="1200" height="700" preserveAspectRatio="xMidYMid meet"/>
+    </mask>
+    <filter id="soften">
+      <feGaussianBlur stdDeviation="0.6"/>
+    </filter>
+    <style>
+      .draw-line {{
+        stroke-dasharray: 1600;
+        stroke-dashoffset: 1600;
+      }}
+      .draw-1 {{ animation: draw 2.7s 0.05s cubic-bezier(.16,1,.3,1) forwards; }}
+      .draw-2 {{ animation: draw 2.8s 0.22s cubic-bezier(.16,1,.3,1) forwards; }}
+      .draw-3 {{ animation: draw 2.65s 0.38s cubic-bezier(.16,1,.3,1) forwards; }}
+      .draw-4 {{ animation: draw 2.45s 0.55s cubic-bezier(.16,1,.3,1) forwards; }}
+      @keyframes draw {{
+        to {{ stroke-dashoffset: 0; }}
+      }}
+    </style>
+  </defs>
+
+  <g mask="url(#logoMask)" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round">
+    <path class="draw-line draw-1" d="M80 350 C220 120, 420 110, 560 300 S850 520, 1120 260" stroke-width="210"/>
+    <path class="draw-line draw-2" d="M60 500 C270 270, 510 260, 710 390 S950 470, 1150 210" stroke-width="180"/>
+    <path class="draw-line draw-3" d="M120 160 C330 330, 520 180, 730 300 S980 410, 1110 520" stroke-width="170"/>
+    <path class="draw-line draw-4" d="M140 590 C300 420, 520 420, 760 500 S1010 450, 1130 340" stroke-width="150"/>
+  </g>
+</svg>
